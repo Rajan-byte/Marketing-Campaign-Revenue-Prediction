@@ -1,4 +1,6 @@
-# Marketing-Campaign-Revenue-Prediction
+End-to-end data science project analyzing marketing campaign performance, cleaning real-world data, performing EDA, and building machine learning models to predict revenue.
+
+## Marketing Campaign Revenue Prediction
 ## 📌 Project Overview
 This project analyzes real-world marketing campaign data to understand key drivers of revenue and build a machine learning model to predict campaign revenue. The dataset contains missing values, inconsistent records, and requires significant preprocessing.
 
